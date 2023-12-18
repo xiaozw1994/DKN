@@ -1,4 +1,4 @@
-# Densely Knowledge-aware Network for Multivariate Time Series Classification
+# DKN MTSC
 ## Setup
 Configure the experimental environment and tools listed below: 
 ```
